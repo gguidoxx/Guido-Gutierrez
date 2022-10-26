@@ -22,7 +22,7 @@ Soy un apasionado por el front-end y cada día me gusta aprender algo nuevo, o b
 
 # My LinkedIn & email
 <center> 
-<a href="https://www.linkedin.com/in/guidosgutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidosgutierrez" style="width:20px;" />Perfil de LinkedIn</a> 
+<a href="https://www.linkedin.com/in/guidosgutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidosgutierrez" style="width:20px;" /> Perfil de LinkedIn</a> 
 </center>
 
 📧 gudombe@gmail.com
