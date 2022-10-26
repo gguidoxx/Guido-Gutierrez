@@ -18,7 +18,7 @@ Lo que yo ofrezco es profesionalismo, trabajo en equipo y mi pasión por ser cad
 
 Soy un apasionado por el front-end y cada día me gusta aprender algo nuevo, o bien especializarme en las áreas que estoy aprendiendo. 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gguidoxx&theme=synthwave&show_icons=true&locale=en&layout=default" alt="gguidoxxstats" style="width:50%;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gguidoxx&theme=dracula&show_icons=true&locale=en&layout=default" alt="gguidoxxstats" style="width:50%;"/></p>
 
 # My LinkedIn & email
 <center> 
