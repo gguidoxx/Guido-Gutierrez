@@ -11,3 +11,5 @@ Soy un desarrollador web full stack, con conocimientos en:
 - TailwindCSS
 
 Soy un apasionado por el front-end y cada día me gusta aprender algo nuevo, o bien especializarme en las áreas que estoy aprendiendo. 
+
+📧gudombe@gmail.com
